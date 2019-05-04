@@ -74,7 +74,7 @@ color: brown;
 }
 .button{
     position: absolute;
-    top: 47%;
+    top: 50%;
     left: 15%;
     transform: translate(-50%,50%);
 }
